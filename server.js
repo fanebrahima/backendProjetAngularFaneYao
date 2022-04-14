@@ -10,8 +10,8 @@ mongoose.Promise = global.Promise;
 // remplacer toute cette chaine par l'URI de connexion à votre propre base dans le cloud s
 //const uri = 'mongodb+srv://bf:tata@cluster0.llhf5.mongodb.net/assignments?retryWrites=true&w=majority';
 
-//const uri = 'mongodb+srv://brahima:fb12345678@cluster0.mkr1m.mongodb.net/assignments?retryWrites=true&w=majority';
-const uri = 'mongodb://localhost:27017/assignments';
+const uri = 'mongodb+srv://brahima:fb12345678@cluster0.mkr1m.mongodb.net/assignments?retryWrites=true&w=majority';
+//const uri = 'mongodb://localhost:27017/assignments';
 
 //mongodb+srv://brahima:<password>@cluster0.mkr1m.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
